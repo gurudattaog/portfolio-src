@@ -12,7 +12,7 @@ body{
     margin: auto;
     margin-top: 5%;
     color: white;
-    font-family: 'Century Gothic',sans-serif;
+    font-family: 'Brush Script MT', Brush Script Std, cursive;
   }
   .box-img{
     border-radius: 50%;
@@ -25,7 +25,7 @@ body{
     font-weight: 100;
   }
   .box h5{
-    font-size: 20px;
+    font-size: 40px;
     letter-spacing: 3px;
     font-weight: 100;
   }
@@ -48,7 +48,7 @@ body{
     transition: all ease-in-out 250ms;
   }
   .box li a:hover{
-    color: #b9b9b9;
+    color: #030201
   }
   html,body
   {
@@ -58,3 +58,5 @@ body{
       padding: 0px;
       overflow-x: hidden; 
   }
+
+ 
