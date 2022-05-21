@@ -12,7 +12,8 @@ body{
     margin: auto;
     margin-top: 5%;
     color: white;
-    font-family: 'Brush Script MT', Brush Script Std, cursive;
+    font-family: 'Montserrat';
+    font-size: 22px;
   }
   .box-img{
     border-radius: 50%;
